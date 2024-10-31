@@ -1,6 +1,6 @@
-# my portfolio
+# Online Course platform
 
-This is a portfolio website for displaying my projects
+This is an Online Course platform for Buying and studying your favourite Course Online
 
 ## Want to use this project?
 
